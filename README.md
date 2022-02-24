@@ -1,2 +1,2 @@
 # Socket-Programming
-Application client-serveur pour gestion des contacts.
+Application client-serveur pour la gestion des contacts.
